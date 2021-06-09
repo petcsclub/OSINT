@@ -1,0 +1,17 @@
+site/*
+
+.DS_Store
+
+*/node_modules
+*/npm-debug.log*
+
+__pycache__
+venv
+
+*/build
+*/material/manifest.json
+*/MANIFEST
+*/site
+
+*/dist
+*/mkdocs_material.egg-info

@@ -1,0 +1,40 @@
+# Project information
+site_name: PETCS OSINT Internet Investigation
+site_url: 'https://petcsclub.github.io/OSINT'
+site_description: Open source intelligence workshop and challenges for blazer's bash
+site_author: 'Jerry Zhu et al.'
+
+# Repository
+repo_name: 'petcsclub/OSINT'
+repo_url: 'https://github.com/petcsclub/OSINT'
+
+# Copyright
+copyright: 'Copyright &copy; 2021 Jerry Zhu'
+
+# Configuration
+theme:
+  name: 'material'
+  custom_dir: 'docs-materialtheme/'
+  language: 'en'
+  palette:
+    primary: 'black'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  feature:
+    tabs: true
+  language: 'en'
+  logo:
+    icon: 'public'
+
+# Customization
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/petcsclub'
+  search:
+    language: 'en'
+
+extra_javascript:
+  - 'link.js'
