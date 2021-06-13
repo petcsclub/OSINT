@@ -24,4 +24,4 @@ Welcome to the PETCS OSINT Internet Investigation website! Here you will find ev
 |[Format](Internet-Investigation/format.md)|Find out the logistics and details of our event!|
 |[Example](example/example.md)|View an example OSINT challenge!|
 |[Resources](OSINT/resources.md)|Get additional resources on OSINT and cybersecurity!|
-|[About Us](about-us)|Learn more about the PETCS club!|
+|[About Us](About-Us/aboutus.md)|Learn more about the PETCS club!|
