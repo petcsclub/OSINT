@@ -6,7 +6,42 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://petcsclub.github.io/OSINT/Internet-Investigation/about/</loc>
+         <lastmod>2021-06-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://petcsclub.github.io/OSINT/Internet-Investigation/clarifications/</loc>
+         <lastmod>2021-06-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://petcsclub.github.io/OSINT/Internet-Investigation/format/</loc>
+         <lastmod>2021-06-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://petcsclub.github.io/OSINT/Internet-Investigation/resources/</loc>
+         <lastmod>2021-06-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://petcsclub.github.io/OSINT/Internet-Investigation/rules/</loc>
+         <lastmod>2021-06-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://petcsclub.github.io/OSINT/Internet-Investigation/submit/</loc>
+         <lastmod>2021-06-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://petcsclub.github.io/OSINT/OSINT/osint/</loc>
+         <lastmod>2021-06-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://petcsclub.github.io/OSINT/OSINT/resources/</loc>
          <lastmod>2021-06-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -22,31 +57,6 @@
     </url>
     <url>
          <loc>https://petcsclub.github.io/OSINT/example/example/</loc>
-         <lastmod>2021-06-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://petcsclub.github.io/OSINT/internet-Investigation/about/</loc>
-         <lastmod>2021-06-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://petcsclub.github.io/OSINT/internet-Investigation/clarifications/</loc>
-         <lastmod>2021-06-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://petcsclub.github.io/OSINT/internet-Investigation/format/</loc>
-         <lastmod>2021-06-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://petcsclub.github.io/OSINT/internet-Investigation/resources/</loc>
-         <lastmod>2021-06-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://petcsclub.github.io/OSINT/internet-Investigation/rules/</loc>
          <lastmod>2021-06-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
