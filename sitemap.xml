@@ -6,7 +6,7 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://petcsclub.github.io/OSINT/Internet-Investigation/about/</loc>
+         <loc>https://petcsclub.github.io/OSINT/About-Us/aboutus/</loc>
          <lastmod>2021-06-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -17,6 +17,11 @@
     </url>
     <url>
          <loc>https://petcsclub.github.io/OSINT/Internet-Investigation/format/</loc>
+         <lastmod>2021-06-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://petcsclub.github.io/OSINT/Internet-Investigation/hints/</loc>
          <lastmod>2021-06-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -42,11 +47,6 @@
     </url>
     <url>
          <loc>https://petcsclub.github.io/OSINT/OSINT/resources/</loc>
-         <lastmod>2021-06-13</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://petcsclub.github.io/OSINT/about-us/aboutus/</loc>
          <lastmod>2021-06-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
